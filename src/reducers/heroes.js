@@ -1,3 +1,5 @@
+//after added createSlice() outdated
+
 import { createReducer } from "@reduxjs/toolkit";
 
 import {

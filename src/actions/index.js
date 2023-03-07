@@ -1,4 +1,5 @@
 import { createAction } from "@reduxjs/toolkit";
+import { heroesFetching, heroesFetched, heroesFetchingError } from "../components/heroesList/heroesSlice";
 
 export const fetchHeroes = (request) => (dispatch) => {
     dispatch(heroesFetching());
@@ -14,7 +15,7 @@ export const fetchFilters = (request) => (dispatch) => {
     .catch(() => dispatch(filtersFetchingError()))
 }
 
-export const heroesFetching = createAction('HEROES_FETCHING')
+// export const heroesFetching = createAction('HEROES_FETCHING')
 
 // export const heroesFetching = () => {
 //     return {
@@ -22,7 +23,7 @@ export const heroesFetching = createAction('HEROES_FETCHING')
 //     }
 // }
 
-export const heroesFetched = createAction('HEROES_FETCHED')
+// export const heroesFetched = createAction('HEROES_FETCHED')
 
 // export const heroesFetched = (heroes) => {
 //     return {
@@ -31,7 +32,7 @@ export const heroesFetched = createAction('HEROES_FETCHED')
 //     }
 // }
 
-export const heroesFetchingError = createAction('HEROES_FETCHING_ERROR')
+// export const heroesFetchingError = createAction('HEROES_FETCHING_ERROR')
 
 // export const heroesFetchingError = () => {
 //     return {
@@ -39,7 +40,7 @@ export const heroesFetchingError = createAction('HEROES_FETCHING_ERROR')
 //     }
 // }
 
-export const heroDeleted = createAction('HERO_DELETED')
+// export const heroDeleted = createAction('HERO_DELETED')
 
 // export const heroDeleted = (id) => {
 //     return {
@@ -48,7 +49,7 @@ export const heroDeleted = createAction('HERO_DELETED')
 //     }
 // }
 
-export const heroCreated = createAction('HERO_CREATED')
+// export const heroCreated = createAction('HERO_CREATED')
 
 // export const heroCreated = (hero) => {
 //     return {
