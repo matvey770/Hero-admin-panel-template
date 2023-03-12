@@ -1,3 +1,5 @@
+//after added createSlice() outdated
+
 const initialState = {
     filters: [],
     filtersLoadingStatus: 'idle',

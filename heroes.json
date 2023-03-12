@@ -35,6 +35,12 @@
       "name": "sdfsdf",
       "description": "sdfsdf",
       "element": "water"
+    },
+    {
+      "id": "2aa307a5-4ebf-45ee-9715-41248276294e",
+      "name": "sdfs",
+      "description": "sdfs",
+      "element": "fire"
     }
   ],
   "filters": [

@@ -1,3 +1,5 @@
+// OUTDATED AFTER ADDED HEROES.JS FILTERS.JS
+
 const initialState = {
     heroes: [],
     heroesLoadingStatus: 'idle',
