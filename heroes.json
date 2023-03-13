@@ -1,82 +1,69 @@
 {
   "heroes": [
     {
-      "id": "8d8e902e-3185-4be7-ba6c-ce51ef1cf140",
-      "name": "sfdfsdf",
+      "id": "94303c17-4e90-484b-acea-b4eada97c549",
+      "name": "dsafs",
+      "description": "dsfsdf",
+      "element": "fire"
+    },
+    {
+      "id": "6b3f0dac-6dcc-4f7a-9af0-844bdbf9007e",
+      "name": "sdfsdf",
+      "description": "sdfsdf",
+      "element": "earth"
+    },
+    {
+      "id": "ddac7fda-8509-4a1b-89a7-8651763999e5",
+      "name": "dsfsdfs",
       "description": "fsdfsdf",
       "element": "fire"
     },
     {
-      "id": "217c14c9-4f6e-45d0-99a0-26f6c8f7fdd7",
-      "name": "freeze",
-      "description": "fsdfsf",
-      "element": "fire"
-    },
-    {
-      "id": "e7993fa9-49a3-4fb4-b274-a882c5abc975",
-      "name": "sdf",
-      "description": "sdf",
+      "id": "279f6af0-e205-454d-ae0a-b2d7f38bf819",
+      "name": "sdfsdfs",
+      "description": "sdfsdfs",
       "element": "water"
     },
     {
-      "id": "25a62086-dea3-4e87-8eed-a542a05a52c2",
-      "name": "sdfsdf",
-      "description": "dsfsdf",
+      "id": "20700196-26c1-4bde-a62f-dfb973956fb4",
+      "name": "sdfsd",
+      "description": "sd",
       "element": "wind"
     },
     {
-      "id": "b067860a-b4cb-47b0-8e1a-45dacf063754",
-      "name": "sdfsdf",
-      "description": "sdfsdf",
-      "element": "wind"
-    },
-    {
-      "id": "3a7070af-da46-4072-a988-f193b4f8db79",
-      "name": "sdfsdf",
-      "description": "sdfsdf",
+      "id": "e92a8ae6-8bb7-4582-b3d8-17123bdb7e0a",
+      "name": "sdfsdfsdf",
+      "description": "sdfsdfs",
       "element": "water"
-    },
-    {
-      "id": "2aa307a5-4ebf-45ee-9715-41248276294e",
-      "name": "sdfs",
-      "description": "sdfs",
-      "element": "fire"
-    },
-    {
-      "id": "ecb4246c-ec1a-405e-ac33-1bc395341145",
-      "name": "sdf",
-      "description": "sdfsdfsdf",
-      "element": "fire"
-    },
-    {
-      "id": "233133b3-c870-4ce0-b0d7-623e9526d11d",
-      "name": "sdfsdf",
-      "description": "sdfsdf",
-      "element": "earth"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"
