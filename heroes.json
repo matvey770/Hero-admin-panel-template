@@ -17,24 +17,6 @@
       "name": "dsfsdfs",
       "description": "fsdfsdf",
       "element": "fire"
-    },
-    {
-      "id": "279f6af0-e205-454d-ae0a-b2d7f38bf819",
-      "name": "sdfsdfs",
-      "description": "sdfsdfs",
-      "element": "water"
-    },
-    {
-      "id": "20700196-26c1-4bde-a62f-dfb973956fb4",
-      "name": "sdfsd",
-      "description": "sd",
-      "element": "wind"
-    },
-    {
-      "id": "e92a8ae6-8bb7-4582-b3d8-17123bdb7e0a",
-      "name": "sdfsdfsdf",
-      "description": "sdfsdfs",
-      "element": "water"
     }
   ],
   "filters": [

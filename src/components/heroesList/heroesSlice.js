@@ -1,3 +1,5 @@
+//outdated after added RTK Query
+
 import { createSlice, createAsyncThunk, createEntityAdapter, createSelector } from "@reduxjs/toolkit";
 import { useHttp } from '../../hooks/http.hook';
 
