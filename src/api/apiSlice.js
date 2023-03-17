@@ -2,7 +2,7 @@ import {createApi, fetchBaseQuery} from '@reduxjs/toolkit/query/react';
 
 export const apiSlice = createApi({
     reducerPath: 'api',
-    baseQuery: fetchBaseQuery({baseUrl: 'http://localhost:3001'}),
+    baseQuery: fetchBaseQuery({baseUrl: 'https://6414e7668dade07073cb12d6.mockapi.io'}),
     tagTypes: ['Heroes'],
     endpoints: builder => ({
         getHeroes: builder.query({
